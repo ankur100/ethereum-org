@@ -170,8 +170,6 @@ This can only be triggered by a transaction sent from the contracts owner. You c
 Notice that every contract has to implement its own kill clause. In this particular case only the account that created the contract can kill it. 
 
 If you don't add any kill clause it could potentially live forever independently of you and any earthly borders, so before you put it live check what your local laws say about it, including any possible limitation on technology export, restrictions on speech and maybe any legislation on the civil rights of sentient digital beings. Treat your bots humanely.
-
-
-
+173
 
 
